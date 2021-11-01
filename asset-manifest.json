@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/ra-hw3-props-listing/static/css/main.1a08072e.chunk.css",
+    "main.js": "/ra-hw3-props-listing/static/js/main.71c02895.chunk.js",
+    "main.js.map": "/ra-hw3-props-listing/static/js/main.71c02895.chunk.js.map",
+    "runtime-main.js": "/ra-hw3-props-listing/static/js/runtime-main.9dec6d98.js",
+    "runtime-main.js.map": "/ra-hw3-props-listing/static/js/runtime-main.9dec6d98.js.map",
+    "static/js/2.afcd59d2.chunk.js": "/ra-hw3-props-listing/static/js/2.afcd59d2.chunk.js",
+    "static/js/2.afcd59d2.chunk.js.map": "/ra-hw3-props-listing/static/js/2.afcd59d2.chunk.js.map",
+    "index.html": "/ra-hw3-props-listing/index.html",
+    "static/css/main.1a08072e.chunk.css.map": "/ra-hw3-props-listing/static/css/main.1a08072e.chunk.css.map",
+    "static/js/2.afcd59d2.chunk.js.LICENSE.txt": "/ra-hw3-props-listing/static/js/2.afcd59d2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9dec6d98.js",
+    "static/js/2.afcd59d2.chunk.js",
+    "static/css/main.1a08072e.chunk.css",
+    "static/js/main.71c02895.chunk.js"
+  ]
+}
